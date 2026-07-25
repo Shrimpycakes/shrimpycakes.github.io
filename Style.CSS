@@ -1,3 +1,38 @@
+body{
+  background: url('https://shrimpcakese4e261656a-rxdpy.wordpress.com/wp-content/uploads/2026/07/shrimpbackgroundupdated.jpg');
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+.title {
+  background-color: pink;
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
+  margin-top: 20px;
+ 
+}
+
+.spiel {
+  margin: 10px;
+}
+
+h1 {
+  margin: 10px;
+  text-align: center;
+}
+
+.imagecontainer {
+  display: flex;
+  
+}
+
+.shrimp{
+  max-width: 5%;
+  height: auto;
+}
+
+
 body {
 	background: url('https://shrimpcakese4e261656a-rxdpy.wordpress.com/wp-content/uploads/2026/07/shrimpbackgroundupdated.jpg');
 	text-align: center;
