@@ -23,8 +23,6 @@ h1 {
 
 .imagecontainer {
   display: flex;
-  background-color: pink; 
-  justify-content: left;
   
 }
 
