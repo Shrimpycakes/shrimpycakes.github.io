@@ -24,7 +24,6 @@ h1 {
 .imagecontainer {
   display: flex;
   background-color: pink; 
-  align-items: center;
   justify-content: left;
   
 }
