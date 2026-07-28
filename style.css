@@ -6,11 +6,11 @@ body{
 
 .title {
   background-color: pink;
-  margin-left: 50px;
+  margin-left: 10px;
   text-align: center;
   margin-top: 20px;
   display: flex;
-  width: 650px;
+  width: 720px;
 }
 
 .spiel {
@@ -19,7 +19,9 @@ body{
 
 h1 {
   margin: 10px;
-  text-align: center;
+  text-align: left;
+  background-color: #D3D3FF;
+  padding: 10px;
 }
 
 .imagecontainer {
