@@ -17,6 +17,7 @@ body{
   display: grid; 
   width: 720px;
   grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
 }
 
 .spiel {
