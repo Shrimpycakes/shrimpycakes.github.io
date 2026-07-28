@@ -55,4 +55,15 @@ h1 {
   
 }
 
+.container {
+  display: inline-block;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  background-color: #D3D3FF;
+  width: 720px;
+
+}
+  
+
 
