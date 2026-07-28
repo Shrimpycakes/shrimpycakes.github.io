@@ -55,4 +55,10 @@ h1 {
   
 }
 
+.dotted {
+  margin: 10px; 
+  border-top: 3px dotted; #bbb;
+
+}
+
 
