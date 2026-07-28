@@ -7,7 +7,7 @@ body{
 .title {
   background-color: pink;
   margin-left: 10px;
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
   display: flex;
   width: 720px;
