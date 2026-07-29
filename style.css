@@ -75,4 +75,12 @@ h1 {
 
 }
 
+hr {
+  border: none;
+  border-top: 1px dotted #f00;
+  color: #fff;
+  background-color: #fff;
+  height: 0px;
+  width: 50%;
+}
 
