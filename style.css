@@ -78,9 +78,9 @@ h1 {
 hr {
   border: none;
   border-top: 1px dotted #f00;
-  color: #fff;
-  background-color: #fff;
+  color: #D3D3D3;
+  background-color: #D3D3D3;
   height: 1px;
-  width: 50%;
+  width: 80%;
 }
 
