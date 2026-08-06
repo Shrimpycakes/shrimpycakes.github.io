@@ -5,12 +5,14 @@ body{
 }
 
 .title {
-  background-color: pink;
+  background-color: #FFC5D3; /* FFC5D3 F2DFEB*/
   margin-left: 10px;
   text-align: left;
   margin-top: 20px;
   display: inline-block;
   width: 720px;
+  font-size: large;
+  padding-top: 20px;
 }
 
 .titleGrid {
@@ -44,11 +46,17 @@ h1 {
   width: 720px;
 }
 
+.song {
+  margin-left: 10px;
+  margin-top: 20px;
+  justify-content: right;
+}
+
 .imagecontainer {
   display: flex;
   justify-content: left;
   align-items: center;
-  background-color: #D3D3FF;
+  background-color: #F2DFEB;
   padding-right: 20px;
   width: fit-content;
   margin-left: 10px;
@@ -73,6 +81,7 @@ h1 {
 
 .firstPost {
   margin: 10px;
+  margin-bottom: 15px;
 
 }
 
@@ -83,4 +92,3 @@ hr {
   height: 1px;
   width: 700px;
 }
-
